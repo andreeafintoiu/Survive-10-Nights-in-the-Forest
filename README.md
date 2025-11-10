@@ -16,3 +16,5 @@ Pentru a ajunge la ziua 10, jucătorul trebuie:
 - încă un inamic pe care jucătorul il poate întâlni este cerbul mutant: dacă jucătorul se află în afara zonei sigure (bazei) noaptea, cerbul îl atacă. În schimb, dacă nivelul focului de tabără atinge 0, cerbul poate ataca jucătorul în orice moment al zilei, rezultând în GAME OVER.
 
 Dacă jucătorul reușește să treacă peste ultimul atac al cultiștilor din ziua 10, acesta va primi un premiu, un item pe nume "Medalionul Supraviețuitorului" și un mesaj de victorie.
+
+BASE GAME: [99 Nights in the Forest 🔦](https://www.roblox.com/games/79546208627805/99-Nights-in-the-Forest)

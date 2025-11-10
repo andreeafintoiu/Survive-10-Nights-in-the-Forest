@@ -1,9 +1,9 @@
-# Survive 10 Nights in the Forest
+### Survive 10 Nights in the Forest
 
 
-Survive 10 Nights in the Forest este un joc text-based, inspirat din unul din cele mai populare jocuri pe platforma Roblox, "99 Nights in the Forest". 
+## Survive 10 Nights in the Forest este un joc text-based, inspirat din unul din cele mai populare jocuri pe platforma Roblox, "99 Nights in the Forest". 
 
-## Scopul principal al jocului "Survive 10 Nights in the Forest" este de a-ți proteja baza, adică de a menține focul de tabără în viață. Pe parcursul fiecărei zile, numărul de puncte necesar pentru a upgrada focul de tabără se mărește, și rata de scădere crește. În cazul în care focul moare, și nivelul de lumină din bază ajunge la 0 la sfârșitul zilei, jocul se termină imediat, deoarece un cerb mutant va ataca jucătorul, ajungând instant în Game Over.
+# Scopul principal al jocului "Survive 10 Nights in the Forest" este de a-ți proteja baza, adică de a menține focul de tabără în viață. Pe parcursul fiecărei zile, numărul de puncte necesar pentru a upgrada focul de tabără se mărește, și rata de scădere crește. În cazul în care focul moare, și nivelul de lumină din bază ajunge la 0 la sfârșitul zilei, jocul se termină imediat, deoarece un cerb mutant va ataca jucătorul, ajungând instant în Game Over.
 
 Pentru a ajunge la ziua 10, jucătorul trebuie:
 - să mențină focul de tabără activ cu ajutorul materialelor (lemn, cărbune, canistră de benzină) prin acțiunea de căutare (scavage: jucătorul primește un număr random de resurse, ce rămân în inventar de pe o zi pe alta);

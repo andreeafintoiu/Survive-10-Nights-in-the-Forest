@@ -1,6 +1,7 @@
 #include <iostream>
 #include <stdexcept>
 #include <string>
+#include <chrono>
 #include "Joc.h"
 #include "Resursa.h"
 
@@ -28,10 +29,14 @@ int main() {
         verificaRegulaCelor3SiExceptii();
 
         std::string numeJucator;
-        unsigned int seed = 42;
+        unsigned int seed = 999;
+        std::cout << "Introdu numele tau si un seed (ex: Jucator 999): ";
         if (!(std::cin >> numeJucator >> seed)) {
             numeJucator = "Supravietuitor";
+            seed = 999;
         }
+        if (seed == 0)
+            seed = static_cast<unsigned int>(std::chrono::system_clock::now().time_since_epoch().count());
 
         Joc joc("assets/config.txt", "assets/resurse.txt", "assets/zile.txt", numeJucator, seed);
         std::cout << joc << "\n";

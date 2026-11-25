@@ -1,0 +1,5 @@
+4
+Lemn mixt 5 2
+Carbune combustibil 15 0
+Canistra combustibil 25 0
+Blana crafting 0 0

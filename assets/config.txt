@@ -1,0 +1,8 @@
+# nivelFocInitial maximFoc bonusVictoriePct penalizareInfrangerePct minimFocSupravietuire
+60 100 20 50 1
+# maxActiuniZi sansaCarbune sansaCanistra sansaNimic dropMinLupi dropMaxLupi
+3 30 15 15 0 4
+# nivelMaxUnealta costLemn1_2 costBlana1_2 costLemn2_3 costBlana2_3
+3 2 2 4 4
+# lemnMinLv1 lemnMaxLv1 lemnMinLv2 lemnMaxLv2 lemnMinLv3 lemnMaxLv3
+2 3 3 5 5 6
